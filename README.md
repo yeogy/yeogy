@@ -1,6 +1,6 @@
 <!--<image src='images/이미지이름' width=100 height=100></image>-->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=50)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yeogy)](https://github.com/yeogy)
 
@@ -16,15 +16,10 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+## 개발을 위해서 달리자!
 ---
 
-**안녕** <br>
-*하세요* <br>
-~~취소선~~
+
 
 >인용구
 
